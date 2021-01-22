@@ -3,5 +3,5 @@ Docker image for swift client
 
 Usage:
 ```
-docker run -it --rm vpalmisano/docker-swiftclient swift --version
+docker run -it --rm vpalmisano/swiftclient swift --version
 ```
